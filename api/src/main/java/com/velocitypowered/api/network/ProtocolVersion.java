@@ -75,7 +75,7 @@ public enum ProtocolVersion implements Ordered<ProtocolVersion> {
   MINECRAFT_1_16_2(751, "1.16.2"),
   MINECRAFT_1_16_3(753, "1.16.3"),
   MINECRAFT_1_16_4(754, "1.16.4", "1.16.5"),
-  MINECRAFT_1_17(755, "1.17"),
+  MINECRAFT_1_17(755, 0x11, "1.17", "21w08b"),
   MINECRAFT_1_17_1(756, "1.17.1"),
   MINECRAFT_1_18(757, "1.18", "1.18.1"),
   MINECRAFT_1_18_2(758, "1.18.2"),
